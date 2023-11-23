@@ -2,4 +2,5 @@ MAC ADRESSEN
 
 ESP1 : 94:B9:7E:D9:A5:68	board : DOIT DEV KIT
 ESP2 : DC:54:75:D5:E7:B0	board : ESP32S3 Dev Module
-ESP3 : 94:B9:7E:D9:2C:34	esp van maxim balzak	board : DOIT DEV KIT
+ESP3 : 94:B9:7E:D9:2C:34	esp van maxim balzak 1	board : DOIT DEV KIT 
+ESP4 : 7C:9E:BD:60:EE:C0	esp van maxim balzak 2	board : DOIT DEV KIT
