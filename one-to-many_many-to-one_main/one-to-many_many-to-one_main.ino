@@ -3,7 +3,7 @@
 
 int ledpin = 4;
 
-uint8_t broadcastAddress[] = {0xDC, 0x54, 0x75, 0xD5, 0xE7, 0xB0};
+uint8_t broadcastAddress[] = {0x7C, 0x9E, 0xBD, 0x66, 0x46, 0x5C};
 // Structure example to receive data
 // Must match the sender structure
 typedef struct struct_message {

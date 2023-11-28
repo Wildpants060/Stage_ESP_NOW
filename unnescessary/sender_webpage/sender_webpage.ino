@@ -127,7 +127,7 @@ void setup() {
 
   WiFi.printDiag(Serial); // Uncomment to verify channel number before
   esp_wifi_set_promiscuous(true);
-  esp_wifi_set_channel(channel, WIFI_SECOND_CHAN_NONE);
+  esp_wifi_set_channel(channel, WIFI_SECOND_CHAN_NONE);//verander channel om een andere channel te gebruiken
   esp_wifi_set_promiscuous(false);
   WiFi.printDiag(Serial); // Uncomment to verify channel change after
 
